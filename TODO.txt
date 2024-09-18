@@ -1,0 +1,6 @@
+Pick a color for black cards
+add win message
+make top cards bigger
+add new game command
+add auto win after all cards are face up
+make sure error messages are all good
